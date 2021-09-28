@@ -1,0 +1,1 @@
+﻿export const publicUrl = new URL(process.env.PUBLIC_URL, window.location);
